@@ -25,6 +25,8 @@ Paper accepted, publication pending in AIP https://aip.scitation.org
 6. Toleva-Vrigazova, B.; Ivanov, I.; Kabaivanov, S.; Ruseva, M., Research paper on economic development and patterns of vaccination, 
 Paper currently under review
 
+7. Galina Ilieva, Tania Yankova, Yulia Dzhabarova, Margarita Ruseva, Delian Angelov, Stanislava Klisarova-Belcheva, Customer Attitude toward Digital Wallet,  Services, MDPI, 2023
+
 I.2. Indexed in other databases/sources with peer review
 
 7. Tchipev, P. ; The concept of the ownership in the late „socialist“ political economy, in Markets, Productivity, and Happiness in a Historical Perspective, 2022, Padova, Italy
@@ -48,9 +50,10 @@ III. Conference presentations and other publications
 
 10. Kabaivanov S., Markovska V., Are markets immune - pandamic impact on financial markets, International Scientific Conference VSIM’21, Ravda, Bulgaria.
 11. Markovska V., Kabaivanov S., Jump diffusion in disease spreading models, International Scientific Conference VSIM’21, Ravda, Bulgaria
+12. Kabaivanov S., Markovska V., Economic policy assessment in post-COVID world, EUconomics International Conference “Financial and Monetary Policies for Fostering European Integration”, 30 March 2023, Iaşi, Romania, http://euconomics.uaic.ro/
 
 
 ------------------------------------------------------------------------
 
 Това хранилище съдържа информация за публикациите по проект КП-06-ДК2/6.
-Списък на публикациите, към месец Септември/Октомври 2022:
+Списък на публикациите, към месец Февриари/Март 2023:
