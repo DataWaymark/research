@@ -10,8 +10,8 @@ I.1. Indexed in Scopus and/or Web Of Science
 1. Kabaivanov, S.; Zhelinski, V.; Zlatanov, B. Coupled Fixed Points for Hardy–Rogers Type of Maps and Their Applications in the Investigations of Market Equilibrium in Duopoly Markets for Non-Differentiable, Nonlinear Response Functions. Symmetry 2022, 14, 605. https://doi.org/10.3390/sym14030605
 https://www.mdpi.com/2073-8994/14/3/605
 
-2. Ignatov, I.; Convergence Determinants and Club Formation In the EU Over 1999-2021, Economic Thought, Sept. 2022, ISSN 2815-3189
-Paper reviewed, acccepted and pending publication. https://etj.iki.bas.b
+2. Ignatov, I.; Convergence Determinants and Club Formation In the EU Over 1999-2021, Economic Thought, #3, 2023, ISSN 2815-3189,
+https://etj.iki.bas.bg : https://www.iki.bas.bg/Journals/EconomicStudies/2023/2023-3/03_Ignat-Ignatov.pdf
 
 3. Markovska V., Kabaivanov S.; Yield modelling in support of industrial investment planning, AIP Conference Proceedings 2449, 070003 (2022); https://doi.org/10.1063/5.0090667 
 https://aip.scitation.org/doi/abs/10.1063/5.0090667
